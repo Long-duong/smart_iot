@@ -1,0 +1,10 @@
+Flask==2.3.3
+flask-cors==4.0.0
+flask-socketio==5.3.4
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+numpy==1.24.3
+requests==2.31.0
+Werkzeg==2.3.7
+python-socketio==5.9.0
+eventlet==0.33.3
